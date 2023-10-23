@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ex02_do_while.Ex04_연습&apos; to &apos;Ex04_plus게임2&apos;&#x0D;&#x0A;- Original project: &apos;Ex03_반복문&apos;&#x0D;&#x0A;- Original element: &apos;ex02_do_while.Ex04_연습&apos;&#x0D;&#x0A;- Renamed element: &apos;ex02_do_while.Ex04_plus게임2&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ex04_연습&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ex02_do_while{Ex04_연습.java[Ex04_연습" matchStrategy="1" name="Ex04_plus게임2" qualified="false" references="true" similarDeclarations="false" stamp="1686711807578" textual="false" version="1.0"/>
+</session>

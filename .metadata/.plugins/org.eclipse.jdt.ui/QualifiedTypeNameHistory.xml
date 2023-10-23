@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="javax.naming.ldap.Rdn"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ArrayBlockingQueue"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="javazoom.jl.player.MP3Player"/>
+    <fullyQualifiedTypeName name="javazoom.jl.player.advanced.PlaybackEvent"/>
+    <fullyQualifiedTypeName name="ex02_상속_실습.Beginner"/>
+    <fullyQualifiedTypeName name="ex02_상속_실습.Wizard"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.RegularEmployee"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.TempEmployee"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.PartTimeEmployee"/>
+    <fullyQualifiedTypeName name="게임만들기.GameDummy"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="도서관리프로그램.Controller"/>
+    <fullyQualifiedTypeName name="도서관리프로그램.BookDAO"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="보충수업.PBK_Jajanmyeon"/>
+    <fullyQualifiedTypeName name="보충수업.PBG_Jajangmyeon"/>
+    <fullyQualifiedTypeName name="보충수업.PJG_Jajangmyeon"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="보충수업.PDY_Jajangmyeon"/>
+    <fullyQualifiedTypeName name="보충수업.PBK_Jajangmyeon"/>
+    <fullyQualifiedTypeName name="보충수업.PCH_Jajangmyeon"/>
+</qualifiedTypeNameHistroy>
